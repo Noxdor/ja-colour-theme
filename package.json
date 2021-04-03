@@ -22,5 +22,8 @@
                 "path": "./themes/JA Colour Theme-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "node": "^15.12.0"
     }
 }
