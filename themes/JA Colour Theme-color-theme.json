@@ -792,7 +792,6 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#e34234"
       }
     },
@@ -800,7 +799,6 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#cf79ff"
       }
     },
@@ -1882,10 +1880,10 @@
     "statusBar.foreground": "#ffffff",
     "statusBar.background": "#000000",
     "statusBarItem.hoverBackground": "#26272a",
-    "statusBar.border": "#ffffff",
+    "statusBar.border": "#ffffffAA",
     "statusBar.debuggingBackground": "#e34234",
     "statusBar.debuggingForeground": "#ffffff",
-    "statusBar.debuggingBorder": "#000000",
+    "statusBar.debuggingBorder": "#ffffff",
     "statusBar.noFolderBackground": "#000000",
     "statusBar.noFolderForeground": "#ffffff",
     "statusBar.noFolderBorder": "#000000",
@@ -1929,9 +1927,9 @@
     "editor.inactiveSelectionBackground": "#5ab7d426",
     "editorWhitespace.foreground": "#ffffff29",
     "editor.selectionHighlightBackground": "#00000078",
-    "editor.selectionHighlightBorder": "#ffffff",
+    "editor.selectionHighlightBorder": "#ffffff3a",
     "editor.findMatchBackground": "#00000078",
-    "editor.findMatchBorder": "#ffffff",
+    "editor.findMatchBorder": "#ffffff3a",
     "editor.findMatchHighlightBackground": "#e3423480",
     "editor.findMatchHighlightBorder": "#ffffff00",
     "editor.findRangeHighlightBackground": "#5ab7d426",
@@ -1942,6 +1940,7 @@
     "editor.wordHighlightStrongBackground": "#e3423400",
     "editor.wordHighlightStrongBorder": "#ffffff",
     "editor.wordHighlightBackground": "#00000080",
+    "editor.wordHighlightBorder": "#ffffff",
     "editor.lineHighlightBackground": "#5ab7d426",
     "editor.lineHighlightBorder": "#00000000",
     "editorLineNumber.activeForeground": "#5ab7d4",
@@ -2029,7 +2028,7 @@
     "pickerGroup.border": "#5ab7d4",
     "pickerGroup.foreground": "#5ab7d4",
     "debugToolBar.background": "#000000",
-    "debugToolBar.border": "#00000000",
+    "debugToolBar.border": "#000000",
     "notifications.foreground": "#ffffff",
     "notifications.background": "#000000",
     "notificationToast.border": "#00000000",
