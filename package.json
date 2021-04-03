@@ -1,0 +1,22 @@
+{
+    "name": "ja-colour-theme",
+    "publisher": "LennartGuderian",
+    "displayName": "JA Colour Theme",
+    "description": "JA Colour Theme, that stands for 'just another Colour Theme', because - and let's be honest - there are a ton! But if you like simplicity and focus on what you're actually doing: Coding! Then this might be the right theme for you. In a simplistic B&W style combined with Vermillion Red, Sky Blue and Graphene Gray, this theme is straight to the point. It doesn't overload you with a billion different colours, instead it chooses a few well combined colours to make your experience with VS Code more pleasant. And you, you don't get distracted, and can just keep coding. Not even ZEN Mode needed.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "JA Colour Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JA Colour Theme-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,3 @@
+# JA Colour Theme
+## JA Colour Theme, that stands for 'just another Colour Theme'
+Because - and let's be honest - there are a ton! But if you like simplicity and focus on what you're actually doing: Coding! Then this might be the right theme for you. Kept in a facile B&W style combined with Vermillion Red, Sky Blue and Graphene Gray, this theme is straight to the point. It doesn't overload you with a billion different colours, instead it chooses a few well concerted colours to make your experience with VS Code more pleasant. And you, you don't get distracted, and can just keep coding. No ZEN Mode needed.
